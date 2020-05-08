@@ -1,998 +1,365 @@
-﻿sg,primer,pos_type,pos,edit_to,edit_name,ylim,title,figwidth,xlabel,bev,day,treatment,order,,
-sg5,F1_A2_R1_A2,aa,7,Y,C64Y,60,"BRCA1, sg5, C64Y",1,days post-transduction,BEV_040,7,untreated,1,,
-sg5,F1_A2_R1_A2,aa,7,Y,C64Y,60,"BRCA1, sg5, C64Y",1,days post-transduction,BEV_041,7,untreated,1,,
-sg5,F1_A2_R1_A2,aa,7,Y,C64Y,60,"BRCA1, sg5, C64Y",1,days post-transduction,BEV_042,14,untreated,2,,
-sg5,F1_A2_R1_A2,aa,7,Y,C64Y,60,"BRCA1, sg5, C64Y",1,days post-transduction,BEV_043,14,untreated,2,,
-sg5,F1_A2_R1_A2,aa,7,Y,C64Y,60,"BRCA1, sg5, C64Y",1,days post-transduction,BEV_044,21,untreated,3,,
-sg5,F1_A2_R1_A2,aa,7,Y,C64Y,60,"BRCA1, sg5, C64Y",1,days post-transduction,BEV_045,21,untreated,3,,
-sg5,F1_A2_R1_A2,aa,7,Y,C64Y,60,"BRCA1, sg5, C64Y",1,days post-transduction,BEV_007,NTC-1,untreated,4,,
-sg5,F1_A2_R1_A2,aa,7,Y,C64Y,60,"BRCA1, sg5, C64Y",1,days post-transduction,BEV_008,NTC-1,untreated,4,,
-sg1,F1_A1_R1_A1,aa,13,*,W372*,35,"BRCA1, sg1, W372*",1,days post-transduction,BEV_010,7,untreated,1,,
-sg1,F1_A1_R1_A1,aa,13,*,W372*,35,"BRCA1, sg1, W372*",1,days post-transduction,BEV_011,7,untreated,1,,
-sg1,F1_A1_R1_A1,aa,13,*,W372*,35,"BRCA1, sg1, W372*",1,days post-transduction,BEV_012,14,untreated,2,,
-sg1,F1_A1_R1_A1,aa,13,*,W372*,35,"BRCA1, sg1, W372*",1,days post-transduction,BEV_013,14,untreated,2,,
-sg1,F1_A1_R1_A1,aa,13,*,W372*,35,"BRCA1, sg1, W372*",1,days post-transduction,BEV_014,21,untreated,3,,
-sg1,F1_A1_R1_A1,aa,13,*,W372*,35,"BRCA1, sg1, W372*",1,days post-transduction,BEV_015,21,untreated,3,,
-sg1,F1_A1_R1_A1,aa,13,*,W372*,35,"BRCA1, sg1, W372*",1,days post-transduction,BEV_007,NTC-1,untreated,4,,
-sg1,F1_A1_R1_A1,aa,13,*,W372*,35,"BRCA1, sg1, W372*",1,days post-transduction,BEV_008,NTC-1,untreated,4,,
-sg12,F1_B1_R2_B1,nuc,37,A,SD + 5,70,"BRCA2, sg12, SD + 5",1,days post-transduction,BEV_082,7,untreated,1,,
-sg12,F1_B1_R2_B1,nuc,37,A,SD + 5,70,"BRCA2, sg12, SD + 5",1,days post-transduction,BEV_083,7,untreated,1,,
-sg12,F1_B1_R2_B1,nuc,37,A,SD + 5,70,"BRCA2, sg12, SD + 5",1,days post-transduction,BEV_084,14,untreated,2,,
-sg12,F1_B1_R2_B1,nuc,37,A,SD + 5,70,"BRCA2, sg12, SD + 5",1,days post-transduction,BEV_085,14,untreated,2,,
-sg12,F1_B1_R2_B1,nuc,37,A,SD + 5,70,"BRCA2, sg12, SD + 5",1,days post-transduction,BEV_086,21,untreated,3,,
-sg12,F1_B1_R2_B1,nuc,37,A,SD + 5,70,"BRCA2, sg12, SD + 5",1,days post-transduction,BEV_087,21,untreated,3,,
-sg12,F1_B1_R2_B1,nuc,37,A,SD + 5,70,"BRCA2, sg12, SD + 5",1,days post-transduction,BEV_007,NTC-1,untreated,4,,
-sg12,F1_B1_R2_B1,nuc,37,A,SD + 5,70,"BRCA2, sg12, SD + 5",1,days post-transduction,BEV_008,NTC-1,untreated,4,,
-sg3,F1_A3_R1_A3,aa,10,*,Q210*,20,"BRCA1, sg3, Q210*",1,days post-transduction,BEV_022,7,untreated,1,,
-sg3,F1_A3_R1_A3,aa,10,*,Q210*,20,"BRCA1, sg3, Q210*",1,days post-transduction,BEV_023,7,untreated,1,,
-sg3,F1_A3_R1_A3,aa,10,*,Q210*,20,"BRCA1, sg3, Q210*",1,days post-transduction,BEV_024,14,untreated,2,,
-sg3,F1_A3_R1_A3,aa,10,*,Q210*,20,"BRCA1, sg3, Q210*",1,days post-transduction,BEV_025,14,untreated,2,,
-sg3,F1_A3_R1_A3,aa,10,*,Q210*,20,"BRCA1, sg3, Q210*",1,days post-transduction,BEV_026,21,untreated,3,,
-sg3,F1_A3_R1_A3,aa,10,*,Q210*,20,"BRCA1, sg3, Q210*",1,days post-transduction,BEV_027,21,untreated,3,,
-sg3,F1_A3_R1_A3,aa,10,*,Q210*,20,"BRCA1, sg3, Q210*",1,days post-transduction,BEV_007,NTC-1,untreated,4,,
-sg3,F1_A3_R1_A3,aa,10,*,Q210*,20,"BRCA1, sg3, Q210*",1,days post-transduction,BEV_008,NTC-1,untreated,4,,
-sg10,F1_A11_R1_A11,aa,12,N,S196N,60,"BRCA2, sg10, S196N",1,days post-transduction,BEV_070,7,untreated,1,,
-sg10,F1_A11_R1_A11,aa,12,N,S196N,60,"BRCA2, sg10, S196N",1,days post-transduction,BEV_071,7,untreated,1,,
-sg10,F1_A11_R1_A11,aa,12,N,S196N,60,"BRCA2, sg10, S196N",1,days post-transduction,BEV_072,14,untreated,2,,
-sg10,F1_A11_R1_A11,aa,12,N,S196N,60,"BRCA2, sg10, S196N",1,days post-transduction,BEV_073,14,untreated,2,,
-sg10,F1_A11_R1_A11,aa,12,N,S196N,60,"BRCA2, sg10, S196N",1,days post-transduction,BEV_074,21,untreated,3,,
-sg10,F1_A11_R1_A11,aa,12,N,S196N,60,"BRCA2, sg10, S196N",1,days post-transduction,BEV_075,21,untreated,3,,
-sg10,F1_A11_R1_A11,aa,12,N,S196N,60,"BRCA2, sg10, S196N",1,days post-transduction,BEV_007,NTC-1,untreated,4,,
-sg10,F1_A11_R1_A11,aa,12,N,S196N,60,"BRCA2, sg10, S196N",1,days post-transduction,BEV_008,NTC-1,untreated,4,,
-sg10,F1_A11_R1_A11,aa,10,*,W194*,15,"BRCA2, sg10, W194*",1,days post-transduction,BEV_070,7,untreated,1,,
-sg10,F1_A11_R1_A11,aa,10,*,W194*,15,"BRCA2, sg10, W194*",1,days post-transduction,BEV_071,7,untreated,1,,
-sg10,F1_A11_R1_A11,aa,10,*,W194*,15,"BRCA2, sg10, W194*",1,days post-transduction,BEV_072,14,untreated,2,,
-sg10,F1_A11_R1_A11,aa,10,*,W194*,15,"BRCA2, sg10, W194*",1,days post-transduction,BEV_073,14,untreated,2,,
-sg10,F1_A11_R1_A11,aa,10,*,W194*,15,"BRCA2, sg10, W194*",1,days post-transduction,BEV_074,21,untreated,3,,
-sg10,F1_A11_R1_A11,aa,10,*,W194*,15,"BRCA2, sg10, W194*",1,days post-transduction,BEV_075,21,untreated,3,,
-sg10,F1_A11_R1_A11,aa,10,*,W194*,15,"BRCA2, sg10, W194*",1,days post-transduction,BEV_007,NTC-1,untreated,4,,
-sg10,F1_A11_R1_A11,aa,10,*,W194*,15,"BRCA2, sg10, W194*",1,days post-transduction,BEV_008,NTC-1,untreated,4,,
-sg3,F1_A3_R1_A3,aa,9,F,P209F,30,"BRCA1, sg3, P209F",1,days post-transduction,BEV_022,7,untreated,1,,
-sg3,F1_A3_R1_A3,aa,9,F,P209F,30,"BRCA1, sg3, P209F",1,days post-transduction,BEV_023,7,untreated,1,,
-sg3,F1_A3_R1_A3,aa,9,F,P209F,30,"BRCA1, sg3, P209F",1,days post-transduction,BEV_024,14,untreated,2,,
-sg3,F1_A3_R1_A3,aa,9,F,P209F,30,"BRCA1, sg3, P209F",1,days post-transduction,BEV_025,14,untreated,2,,
-sg3,F1_A3_R1_A3,aa,9,F,P209F,30,"BRCA1, sg3, P209F",1,days post-transduction,BEV_026,21,untreated,3,,
-sg3,F1_A3_R1_A3,aa,9,F,P209F,30,"BRCA1, sg3, P209F",1,days post-transduction,BEV_027,21,untreated,3,,
-sg3,F1_A3_R1_A3,aa,9,F,P209F,30,"BRCA1, sg3, P209F",1,days post-transduction,BEV_007,NTC-1,untreated,4,,
-sg3,F1_A3_R1_A3,aa,9,F,P209F,30,"BRCA1, sg3, P209F",1,days post-transduction,BEV_008,NTC-1,untreated,4,,
-sg29,F2_B3_R2_B3,aa,11,N,D692N,85,"sg30, D692N",1.3,days post-drug addition,BEV_094,0,untreated,1,,
-sg29,F2_B3_R2_B3,aa,11,N,D692N,85,"sg30, D692N",1.3,days post-drug addition,BEV_095,0,untreated,1,,
-sg29,F2_B3_R2_B3,aa,11,N,D692N,85,"sg30, D692N",1.3,days post-drug addition,BEV_096,5,untreated,2,,
-sg29,F2_B3_R2_B3,aa,11,N,D692N,85,"sg30, D692N",1.3,days post-drug addition,BEV_097,5,untreated,2,,
-sg29,F2_B3_R2_B3,aa,11,N,D692N,85,"sg30, D692N",1.3,days post-drug addition,BEV_098,5,talazoparib,2,,
-sg29,F2_B3_R2_B3,aa,11,N,D692N,85,"sg30, D692N",1.3,days post-drug addition,BEV_099,5,talazoparib,2,,
-sg29,F2_B3_R2_B3,aa,11,N,D692N,85,"sg30, D692N",1.3,days post-drug addition,BEV_100,12,untreated,3,,
-sg29,F2_B3_R2_B3,aa,11,N,D692N,85,"sg30, D692N",1.3,days post-drug addition,BEV_101,12,untreated,3,,
-sg29,F2_B3_R2_B3,aa,11,N,D692N,85,"sg30, D692N",1.3,days post-drug addition,BEV_102,12,talazoparib,3,,
-sg29,F2_B3_R2_B3,aa,11,N,D692N,85,"sg30, D692N",1.3,days post-drug addition,BEV_103,12,talazoparib,3,,
-sg29,F2_B3_R2_B3,aa,11,N,D692N,85,"sg30, D692N",1.3,days post-drug addition,BEV_007,NTC-1,untreated,4,,
-sg29,F2_B3_R2_B3,aa,11,N,D692N,85,"sg30, D692N",1.3,days post-drug addition,BEV_008,NTC-1,untreated,4,,
-sg30,F2_B4_R2_B4,aa,11,Q,R878Q,80,"sg31, R878Q",1.3,days post-drug addition,BEV_104,0,untreated,1,,
-sg30,F2_B4_R2_B4,aa,11,Q,R878Q,80,"sg31, R878Q",1.3,days post-drug addition,BEV_105,0,untreated,1,,
-sg30,F2_B4_R2_B4,aa,11,Q,R878Q,80,"sg31, R878Q",1.3,days post-drug addition,BEV_106,5,untreated,2,,
-sg30,F2_B4_R2_B4,aa,11,Q,R878Q,80,"sg31, R878Q",1.3,days post-drug addition,BEV_107,5,untreated,2,,
-sg30,F2_B4_R2_B4,aa,11,Q,R878Q,80,"sg31, R878Q",1.3,days post-drug addition,BEV_108,5,talazoparib,3,,
-sg30,F2_B4_R2_B4,aa,11,Q,R878Q,80,"sg31, R878Q",1.3,days post-drug addition,BEV_109,5,talazoparib,3,,
-sg30,F2_B4_R2_B4,aa,11,Q,R878Q,80,"sg31, R878Q",1.3,days post-drug addition,BEV_110,12,untreated,4,,
-sg30,F2_B4_R2_B4,aa,11,Q,R878Q,80,"sg31, R878Q",1.3,days post-drug addition,BEV_111,12,untreated,4,,
-sg30,F2_B4_R2_B4,aa,11,Q,R878Q,80,"sg31, R878Q",1.3,days post-drug addition,BEV_112,12,talazoparib,5,,
-sg30,F2_B4_R2_B4,aa,11,Q,R878Q,80,"sg31, R878Q",1.3,days post-drug addition,BEV_113,12,talazoparib,5,,
-sg30,F2_B4_R2_B4,aa,11,Q,R878Q,80,"sg31, R878Q",1.3,days post-drug addition,BEV_007,NTC-1,untreated,6,,
-sg30,F2_B4_R2_B4,aa,11,Q,R878Q,80,"sg31, R878Q",1.3,days post-drug addition,BEV_008,NTC-1,untreated,6,,
-sg31,F2_B5_R2_B5,aa,8,V,A774V,70,"sg32, A774V",1.3,days post-drug addition,BEV_114,0,untreated,1,,
-sg31,F2_B5_R2_B5,aa,8,V,A774V,70,"sg32, A774V",1.3,days post-drug addition,BEV_115,0,untreated,1,,
-sg31,F2_B5_R2_B5,aa,8,V,A774V,70,"sg32, A774V",1.3,days post-drug addition,BEV_116,5,untreated,2,,
-sg31,F2_B5_R2_B5,aa,8,V,A774V,70,"sg32, A774V",1.3,days post-drug addition,BEV_117,5,untreated,2,,
-sg31,F2_B5_R2_B5,aa,8,V,A774V,70,"sg32, A774V",1.3,days post-drug addition,BEV_118,5,talazoparib,3,,
-sg31,F2_B5_R2_B5,aa,8,V,A774V,70,"sg32, A774V",1.3,days post-drug addition,BEV_119,5,talazoparib,3,,
-sg31,F2_B5_R2_B5,aa,8,V,A774V,70,"sg32, A774V",1.3,days post-drug addition,BEV_120,12,untreated,4,,
-sg31,F2_B5_R2_B5,aa,8,V,A774V,70,"sg32, A774V",1.3,days post-drug addition,BEV_121,12,untreated,4,,
-sg31,F2_B5_R2_B5,aa,8,V,A774V,70,"sg32, A774V",1.3,days post-drug addition,BEV_122,12,talazoparib,5,,
-sg31,F2_B5_R2_B5,aa,8,V,A774V,70,"sg32, A774V",1.3,days post-drug addition,BEV_123,12,talazoparib,5,,
-sg31,F2_B5_R2_B5,aa,8,V,A774V,70,"sg32, A774V",1.3,days post-drug addition,BEV_007,NTC-1,untreated,6,,
-sg31,F2_B5_R2_B5,aa,8,V,A774V,70,"sg32, A774V",1.3,days post-drug addition,BEV_008,NTC-1,untreated,6,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_124,0,untreated,1,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_125,0,untreated,1,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_126,5,untreated,2,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_127,5,untreated,2,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_128,5,niraparib,3,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_129,5,niraparib,3,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_130,5,olaparib,4,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_131,5,olaparib,4,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_132,5,rucaparib,5,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_133,5,rucaparib,5,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_134,5,talazoparib,6,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_135,5,talazoparib,6,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_136,5,veliparib,7,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_137,5,veliparib,7,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_138,12,untreated,8,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_139,12,untreated,8,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_140,12,niraparib,9,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_141,12,niraparib,9,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_142,12,olaparib,10,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_143,12,olaparib,10,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_144,12,rucaparib,11,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_145,12,rucaparib,11,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_146,12,talazoparib,12,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_147,12,talazoparib,12,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_148,12,veliparib,13,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_149,12,veliparib,13,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_007,NTC-1,untreated,14,,
-sg32,F2_B4_R2_B4,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_008,NTC-1,untreated,14,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_124,0,untreated,1,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_125,0,untreated,1,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_126,5,untreated,2,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_127,5,untreated,2,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_128,5,niraparib,3,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_129,5,niraparib,3,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_130,5,olaparib,4,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_131,5,olaparib,4,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_132,5,rucaparib,5,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_133,5,rucaparib,5,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_134,5,talazoparib,6,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_135,5,talazoparib,6,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_136,5,veliparib,7,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_137,5,veliparib,7,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_138,12,untreated,8,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_139,12,untreated,8,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_140,12,niraparib,9,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_141,12,niraparib,9,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_142,12,olaparib,10,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_143,12,olaparib,10,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_144,12,rucaparib,11,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_145,12,rucaparib,11,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_146,12,talazoparib,12,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_147,12,talazoparib,12,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_148,12,veliparib,13,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_149,12,veliparib,13,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_007,NTC-1,untreated,14,,
-sg32,F2_B4_R2_B4,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_008,NTC-1,untreated,14,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_150,0,untreated,1,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_151,0,untreated,1,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_152,5,untreated,2,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_153,5,untreated,2,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_154,5,niraparib,3,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_155,5,niraparib,3,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_156,5,olaparib,4,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_157,5,olaparib,4,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_158,5,rucaparib,5,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_159,5,rucaparib,5,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_160,5,talazoparib,6,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_161,5,talazoparib,6,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_162,5,veliparib,7,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_163,5,veliparib,7,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_164,12,untreated,8,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_165,12,untreated,8,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_166,12,niraparib,9,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_167,12,niraparib,9,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_168,12,olaparib,10,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_169,12,olaparib,10,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_170,12,rucaparib,11,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_171,12,rucaparib,11,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_172,12,talazoparib,12,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_173,12,talazoparib,12,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_174,12,veliparib,13,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_175,12,veliparib,13,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_007,NTC-1,untreated,14,,
-sg33,o1341_o1342,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_008,NTC-1,untreated,14,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_176,0,untreated,1,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_177,0,untreated,1,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_178,5,untreated,2,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_179,5,untreated,2,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_180,5,niraparib,3,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_181,5,niraparib,3,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_182,5,olaparib,4,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_183,5,olaparib,4,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_184,5,rucaparib,5,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_185,5,rucaparib,5,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_186,5,talazoparib,6,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_187,5,talazoparib,6,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_188,5,veliparib,7,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_189,5,veliparib,7,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_190,12,untreated,8,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_191,12,untreated,8,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_192,12,niraparib,9,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_193,12,niraparib,9,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_194,12,olaparib,10,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_195,12,olaparib,10,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_196,12,rucaparib,11,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_197,12,rucaparib,11,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_198,12,talazoparib,12,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_199,12,talazoparib,12,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_200,12,veliparib,13,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_201,12,veliparib,13,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_007,NTC-1,untreated,14,,
-sg34,o1341_o1342,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_008,NTC-1,untreated,14,,
-sg35,F1_B7_R1_B7,aa,10,*,W584*,80,"sg35, W584*",1.3,days post-drug addition,BEV_202,0,untreated,1,,
-sg35,F1_B7_R1_B7,aa,10,*,W584*,80,"sg35, W584*",1.3,days post-drug addition,BEV_203,0,untreated,1,,
-sg35,F1_B7_R1_B7,aa,10,*,W584*,80,"sg35, W584*",1.3,days post-drug addition,BEV_204,5,untreated,2,,
-sg35,F1_B7_R1_B7,aa,10,*,W584*,80,"sg35, W584*",1.3,days post-drug addition,BEV_205,5,untreated,2,,
-sg35,F1_B7_R1_B7,aa,10,*,W584*,80,"sg35, W584*",1.3,days post-drug addition,BEV_206,5,talazoparib,3,,
-sg35,F1_B7_R1_B7,aa,10,*,W584*,80,"sg35, W584*",1.3,days post-drug addition,BEV_207,5,talazoparib,3,,
-sg35,F1_B7_R1_B7,aa,10,*,W584*,80,"sg35, W584*",1.3,days post-drug addition,BEV_208,12,untreated,4,,
-sg35,F1_B7_R1_B7,aa,10,*,W584*,80,"sg35, W584*",1.3,days post-drug addition,BEV_209,12,untreated,4,,
-sg35,F1_B7_R1_B7,aa,10,*,W584*,80,"sg35, W584*",1.3,days post-drug addition,BEV_210,12,talazoparib,5,,
-sg35,F1_B7_R1_B7,aa,10,*,W584*,80,"sg35, W584*",1.3,days post-drug addition,BEV_211,12,talazoparib,5,,
-sg35,F1_B7_R1_B7,aa,10,*,W584*,80,"sg35, W584*",1.3,days post-drug addition,BEV_007,NTC-1,untreated,6,,
-sg35,F1_B7_R1_B7,aa,10,*,W584*,80,"sg35, W584*",1.3,days post-drug addition,BEV_008,NTC-1,untreated,6,,
-sg36,F1_B8_R1_B8,nuc,26,T,S702S,30,"sg36, S702S",1.3,days post-drug addition,BEV_212,0,untreated,1,,
-sg36,F1_B8_R1_B8,nuc,26,T,S702S,30,"sg36, S702S",1.3,days post-drug addition,BEV_213,0,untreated,1,,
-sg36,F1_B8_R1_B8,nuc,26,T,S702S,30,"sg36, S702S",1.3,days post-drug addition,BEV_214,5,untreated,2,,
-sg36,F1_B8_R1_B8,nuc,26,T,S702S,30,"sg36, S702S",1.3,days post-drug addition,BEV_215,5,untreated,2,,
-sg36,F1_B8_R1_B8,nuc,26,T,S702S,30,"sg36, S702S",1.3,days post-drug addition,BEV_216,5,talazoparib,3,,
-sg36,F1_B8_R1_B8,nuc,26,T,S702S,30,"sg36, S702S",1.3,days post-drug addition,BEV_217,5,talazoparib,3,,
-sg36,F1_B8_R1_B8,nuc,26,T,S702S,30,"sg36, S702S",1.3,days post-drug addition,BEV_218,12,untreated,4,,
-sg36,F1_B8_R1_B8,nuc,26,T,S702S,30,"sg36, S702S",1.3,days post-drug addition,BEV_219,12,untreated,4,,
-sg36,F1_B8_R1_B8,nuc,26,T,S702S,30,"sg36, S702S",1.3,days post-drug addition,BEV_220,12,talazoparib,5,,
-sg36,F1_B8_R1_B8,nuc,26,T,S702S,30,"sg36, S702S",1.3,days post-drug addition,BEV_221,12,talazoparib,5,,
-sg36,F1_B8_R1_B8,nuc,26,T,S702S,30,"sg36, S702S",1.3,days post-drug addition,BEV_007,NTC-1,untreated,6,,
-sg36,F1_B8_R1_B8,nuc,26,T,S702S,30,"sg36, S702S",1.3,days post-drug addition,BEV_008,NTC-1,untreated,6,,
-sg24,o1268_o1267,aa,1,F,S145F,75,"sg25, S145F",0.4,days post-drug addition,BEV_348,14,untreated,1,,
-sg24,o1268_o1267,aa,1,F,S145F,75,"sg25, S145F",0.4,days post-drug addition,BEV_349,14,untreated,1,,
-sg24,o1268_o1267,aa,1,F,S145F,75,"sg25, S145F",0.4,days post-drug addition,BEV_350,14,MCL1-i + BCL2L1-i,2,,
-sg24,o1268_o1267,aa,1,F,S145F,75,"sg25, S145F",0.4,days post-drug addition,BEV_351,14,MCL1-i + BCL2L1-i,2,,
-sg25,o1268_o1267,aa,1,F,S145F,75,"sg26, S145F",0.4,days post-drug addition,BEV_352,14,untreated,1,,
-sg25,o1268_o1267,aa,1,F,S145F,75,"sg26, S145F",0.4,days post-drug addition,BEV_353,14,untreated,1,,
-sg25,o1268_o1267,aa,1,F,S145F,75,"sg26, S145F",0.4,days post-drug addition,BEV_354,14,MCL1-i + BCL2L1-i,2,,
-sg25,o1268_o1267,aa,1,F,S145F,75,"sg26, S145F",0.4,days post-drug addition,BEV_355,14,MCL1-i + BCL2L1-i,2,,
-sg26,o1268_o1267,aa,1,F,S145F,75,"sg27, S145F",0.4,days post-drug addition,BEV_356,14,untreated,1,,
-sg26,o1268_o1267,aa,1,F,S145F,75,"sg27, S145F",0.4,days post-drug addition,BEV_357,14,untreated,1,,
-sg26,o1268_o1267,aa,1,F,S145F,75,"sg27, S145F",0.4,days post-drug addition,BEV_358,14,MCL1-i + BCL2L1-i,2,,
-sg26,o1268_o1267,aa,1,F,S145F,75,"sg27, S145F",0.4,days post-drug addition,BEV_359,14,MCL1-i + BCL2L1-i,2,,
-sg27,o1268_o1267,aa,1,F,S145F,75,"sg28, S145F",0.8,days post-drug addition,BEV_360,14,untreated,1,,
-sg27,o1268_o1267,aa,1,F,S145F,75,"sg28, S145F",0.8,days post-drug addition,BEV_361,14,untreated,1,,
-sg27,o1268_o1267,aa,1,F,S145F,75,"sg28, S145F",0.8,days post-drug addition,BEV_362,14,MCL1-i + BCL2L1-i,2,,
-sg27,o1268_o1267,aa,1,F,S145F,75,"sg28, S145F",0.8,days post-drug addition,BEV_363,14,MCL1-i + BCL2L1-i,2,,
-sg27,o1268_o1267,aa,1,F,S145F,75,"sg28, S145F",0.8,days post-drug addition,BEV_388,NTC-2,untreated,3,,
-sg27,o1268_o1267,aa,1,F,S145F,75,"sg28, S145F",0.8,days post-drug addition,BEV_389,NTC-2,untreated,3,,
-sg28,o1265_o1266,aa,14,N,D107N,60,"sg29, D107N",0.8,days post-drug addition,BEV_364,14,untreated,1,,
-sg28,o1265_o1266,aa,14,N,D107N,60,"sg29, D107N",0.8,days post-drug addition,BEV_365,14,untreated,1,,
-sg28,o1265_o1266,aa,14,N,D107N,60,"sg29, D107N",0.8,days post-drug addition,BEV_366,14,MCL1-i + BCL2L1-i,2,,
-sg28,o1265_o1266,aa,14,N,D107N,60,"sg29, D107N",0.8,days post-drug addition,BEV_367,14,MCL1-i + BCL2L1-i,2,,
-sg28,o1265_o1266,aa,14,N,D107N,60,"sg29, D107N",0.8,days post-drug addition,BEV_388,NTC-2,untreated,3,,
-sg28,o1265_o1266,aa,14,N,D107N,60,"sg29, D107N",0.8,days post-drug addition,BEV_389,NTC-2,untreated,3,,
-sg28,o1265_o1266,aa,14,H,D107H,60,"sg29, D107H",0.8,days post-drug addition,BEV_364,14,untreated,1,,
-sg28,o1265_o1266,aa,14,H,D107H,60,"sg29, D107H",0.8,days post-drug addition,BEV_365,14,untreated,1,,
-sg28,o1265_o1266,aa,14,H,D107H,60,"sg29, D107H",0.8,days post-drug addition,BEV_366,14,MCL1-i + BCL2L1-i,2,,
-sg28,o1265_o1266,aa,14,H,D107H,60,"sg29, D107H",0.8,days post-drug addition,BEV_367,14,MCL1-i + BCL2L1-i,2,,
-sg28,o1265_o1266,aa,14,H,D107H,60,"sg29, D107H",0.8,days post-drug addition,BEV_388,NTC-2,untreated,3,,
-sg28,o1265_o1266,aa,14,H,D107H,60,"sg29, D107H",0.8,days post-drug addition,BEV_389,NTC-2,untreated,3,,
-sg28,o1265_o1266,aa,14,Y,D107Y,60,"sg29, D107Y",0.8,days post-drug addition,BEV_364,14,untreated,1,,
-sg28,o1265_o1266,aa,14,Y,D107Y,60,"sg29, D107Y",0.8,days post-drug addition,BEV_365,14,untreated,1,,
-sg28,o1265_o1266,aa,14,Y,D107Y,60,"sg29, D107Y",0.8,days post-drug addition,BEV_366,14,MCL1-i + BCL2L1-i,2,,
-sg28,o1265_o1266,aa,14,Y,D107Y,60,"sg29, D107Y",0.8,days post-drug addition,BEV_367,14,MCL1-i + BCL2L1-i,2,,
-sg28,o1265_o1266,aa,14,Y,D107Y,60,"sg29, D107Y",0.8,days post-drug addition,BEV_388,NTC-2,untreated,3,,
-sg28,o1265_o1266,aa,14,Y,D107Y,60,"sg29, D107Y",0.8,days post-drug addition,BEV_389,NTC-2,untreated,3,,
-sg16,F1_C11_R1_C11,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_320,0,untreated,1,,
-sg16,F1_C11_R1_C11,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_321,0,untreated,1,,
-sg16,F1_C11_R1_C11,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_322,7,untreated,2,,
-sg16,F1_C11_R1_C11,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_323,7,untreated,2,,
-sg16,F1_C11_R1_C11,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_324,7,BCL2L1-i,3,,
-sg16,F1_C11_R1_C11,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_325,7,BCL2L1-i,3,,
-sg16,F1_C11_R1_C11,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_327,7,BCL2L1-i + MCL1-i,4,,
-sg16,F1_C11_R1_C11,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_328,14,untreated,5,,
-sg16,F1_C11_R1_C11,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_329,14,untreated,5,,
-sg16,F1_C11_R1_C11,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_330,14,BCL2L1-i,6,,
-sg16,F1_C11_R1_C11,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_331,14,BCL2L1-i,6,,
-sg16,F1_C11_R1_C11,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_333,14,BCL2L1-i + MCL1-i,7,,
-sg16,F1_C11_R1_C11,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_272,NTC-1,untreated,8,,
-sg16,F1_C11_R1_C11,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_273,NTC-1,untreated,8,,
-sg15,F1_C11_R1_C11,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_306,0,untreated,1,,
-sg15,F1_C11_R1_C11,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_307,0,untreated,1,,
-sg15,F1_C11_R1_C11,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_308,7,untreated,2,,
-sg15,F1_C11_R1_C11,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_309,7,untreated,2,,
-sg15,F1_C11_R1_C11,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_310,7,BCL2L1-i,3,,
-sg15,F1_C11_R1_C11,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_311,7,BCL2L1-i,3,,
-sg15,F1_C11_R1_C11,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_313,7,BCL2L1-i + MCL1-i,4,,
-sg15,F1_C11_R1_C11,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_314,14,untreated,5,,
-sg15,F1_C11_R1_C11,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_315,14,untreated,5,,
-sg15,F1_C11_R1_C11,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_316,14,BCL2L1-i,6,,
-sg15,F1_C11_R1_C11,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_317,14,BCL2L1-i,6,,
-sg15,F1_C11_R1_C11,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_319,14,BCL2L1-i + MCL1-i,7,,
-sg15,F1_C11_R1_C11,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_272,NTC-1,untreated,8,,
-sg15,F1_C11_R1_C11,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_273,NTC-1,untreated,8,,
-sg17,o1256_o1257,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_278,0,untreated,1,,
-sg17,o1256_o1257,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_279,0,untreated,1,,
-sg17,o1256_o1257,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_280,7,untreated,2,,
-sg17,o1256_o1257,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_281,7,untreated,2,,
-sg17,o1256_o1257,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_282,7,BCL2L1-i,3,,
-sg17,o1256_o1257,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_283,7,BCL2L1-i,3,,
-sg17,o1256_o1257,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_285,7,BCL2L1-i + MCL1-i,4,,
-sg17,o1256_o1257,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_286,14,untreated,5,,
-sg17,o1256_o1257,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_287,14,untreated,5,,
-sg17,o1256_o1257,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_288,14,BCL2L1-i,6,,
-sg17,o1256_o1257,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_289,14,BCL2L1-i,6,,
-sg17,o1256_o1257,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_290,14,BCL2L1-i + MCL1-i,7,,
-sg17,o1256_o1257,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_291,14,BCL2L1-i + MCL1-i,7,,
-sg17,o1256_o1257,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_272,NTC-1,untreated,8,,
-sg17,o1256_o1257,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_273,NTC-1,untreated,8,,
-sg21,o1262_o1263,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_222,0,untreated,1,,
-sg21,o1262_o1263,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_223,0,untreated,1,,
-sg21,o1262_o1263,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_224,7,untreated,2,,
-sg21,o1262_o1263,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_225,7,untreated,2,,
-sg21,o1262_o1263,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_226,7,BCL2L1-i,3,,
-sg21,o1262_o1263,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_227,7,BCL2L1-i,3,,
-sg21,o1262_o1263,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_229,7,BCL2L1-i + MCL1-i,4,,
-sg21,o1262_o1263,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_230,14,untreated,5,,
-sg21,o1262_o1263,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_231,14,untreated,5,,
-sg21,o1262_o1263,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_232,14,BCL2L1-i,6,,
-sg21,o1262_o1263,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_233,14,BCL2L1-i,6,,
-sg21,o1262_o1263,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_234,14,BCL2L1-i + MCL1-i,7,,
-sg21,o1262_o1263,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_235,14,BCL2L1-i + MCL1-i,7,,
-sg21,o1262_o1263,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_372,14,untreated,5,,
-sg21,o1262_o1263,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_373,14,untreated,5,,
-sg21,o1262_o1263,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_374,14,BCL2L1-i + MCL1-i,7,,
-sg21,o1262_o1263,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_375,14,BCL2L1-i + MCL1-i,7,,
-sg21,o1262_o1263,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_388,NTC-2,untreated,8,,
-sg21,o1262_o1263,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_389,NTC-2,untreated,8,,
-sg19,o1256_o1257,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_236,0,untreated,1,,
-sg19,o1256_o1257,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_237,0,untreated,1,,
-sg19,o1256_o1257,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_238,7,untreated,2,,
-sg19,o1256_o1257,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_239,7,untreated,2,,
-sg19,o1256_o1257,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_241,7,BCL2L1-i,3,,
-sg19,o1256_o1257,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_243,7,BCL2L1-i + MCL1-i,4,,
-sg19,o1256_o1257,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_244,14,untreated,5,,
-sg19,o1256_o1257,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_245,14,untreated,5,,
-sg19,o1256_o1257,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_246,14,BCL2L1-i,6,,
-sg19,o1256_o1257,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_247,14,BCL2L1-i,6,,
-sg19,o1256_o1257,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_248,14,BCL2L1-i + MCL1-i,7,,
-sg19,o1256_o1257,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_249,14,BCL2L1-i + MCL1-i,7,,
-sg19,o1256_o1257,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_376,14,untreated,5,,
-sg19,o1256_o1257,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_377,14,untreated,5,,
-sg19,o1256_o1257,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_378,14,BCL2L1-i + MCL1-i,7,,
-sg19,o1256_o1257,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_379,14,BCL2L1-i + MCL1-i,7,,
-sg19,o1256_o1257,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_388,NTC-2,untreated,8,,
-sg19,o1256_o1257,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_389,NTC-2,untreated,8,,
-sg18,o1256_o1257,aa,2,I,T212I,100,"sg18, T212I",0.8,days post-drug addition,BEV_368,14,untreated,1,,
-sg18,o1256_o1257,aa,2,I,T212I,100,"sg18, T212I",0.8,days post-drug addition,BEV_369,14,untreated,1,,
-sg18,o1256_o1257,aa,2,I,T212I,100,"sg18, T212I",0.8,days post-drug addition,BEV_370,14,BCL2L1-i + MCL1-i,2,,
-sg18,o1256_o1257,aa,2,I,T212I,100,"sg18, T212I",0.8,days post-drug addition,BEV_371,14,BCL2L1-i + MCL1-i,2,,
-sg18,o1256_o1257,aa,2,I,T212I,100,"sg18, T212I",0.8,days post-drug addition,BEV_388,NTC-2,untreated,3,,
-sg18,o1256_o1257,aa,2,I,T212I,100,"sg18, T212I",0.8,days post-drug addition,BEV_389,NTC-2,untreated,3,,
-sg20,F2_C10_R2_C10,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_334,0,untreated,1,,
-sg20,F2_C10_R2_C10,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_335,0,untreated,1,,
-sg20,F2_C10_R2_C10,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_336,7,untreated,2,,
-sg20,F2_C10_R2_C10,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_337,7,untreated,2,,
-sg20,F2_C10_R2_C10,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_339,7,BCL2L1-i,3,,
-sg20,F2_C10_R2_C10,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_341,7,BCL2L1-i + MCL1-i,4,,
-sg20,F2_C10_R2_C10,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_342,14,untreated,5,,
-sg20,F2_C10_R2_C10,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_343,14,untreated,5,,
-sg20,F2_C10_R2_C10,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_344,14,BCL2L1-i,6,,
-sg20,F2_C10_R2_C10,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_345,14,BCL2L1-i,6,,
-sg20,F2_C10_R2_C10,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_346,14,BCL2L1-i + MCL1-i,7,,
-sg20,F2_C10_R2_C10,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_347,14,BCL2L1-i + MCL1-i,7,,
-sg20,F2_C10_R2_C10,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_272,NTC-1,untreated,8,,
-sg20,F2_C10_R2_C10,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_273,NTC-1,untreated,8,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
+﻿sg,primer,pos_type,pos,edit_to,edit_name,ylim,title,figwidth,xlabel,bev,day,treatment,order
+sg5,BRCA1_F2_BRCA1_R2,aa,7,Y,C64Y,60,"BRCA1, sg5, C64Y",1,days post-transduction,BEV_040,7,untreated,1
+sg5,BRCA1_F2_BRCA1_R2,aa,7,Y,C64Y,60,"BRCA1, sg5, C64Y",1,days post-transduction,BEV_041,7,untreated,1
+sg5,BRCA1_F2_BRCA1_R2,aa,7,Y,C64Y,60,"BRCA1, sg5, C64Y",1,days post-transduction,BEV_042,14,untreated,2
+sg5,BRCA1_F2_BRCA1_R2,aa,7,Y,C64Y,60,"BRCA1, sg5, C64Y",1,days post-transduction,BEV_043,14,untreated,2
+sg5,BRCA1_F2_BRCA1_R2,aa,7,Y,C64Y,60,"BRCA1, sg5, C64Y",1,days post-transduction,BEV_044,21,untreated,3
+sg5,BRCA1_F2_BRCA1_R2,aa,7,Y,C64Y,60,"BRCA1, sg5, C64Y",1,days post-transduction,BEV_045,21,untreated,3
+sg5,BRCA1_F2_BRCA1_R2,aa,7,Y,C64Y,60,"BRCA1, sg5, C64Y",1,days post-transduction,BEV_007,NTC-1,untreated,4
+sg5,BRCA1_F2_BRCA1_R2,aa,7,Y,C64Y,60,"BRCA1, sg5, C64Y",1,days post-transduction,BEV_008,NTC-1,untreated,4
+sg1,BRCA1_F1_BRCA1_R1,aa,13,*,W372*,35,"BRCA1, sg1, W372*",1,days post-transduction,BEV_010,7,untreated,1
+sg1,BRCA1_F1_BRCA1_R1,aa,13,*,W372*,35,"BRCA1, sg1, W372*",1,days post-transduction,BEV_011,7,untreated,1
+sg1,BRCA1_F1_BRCA1_R1,aa,13,*,W372*,35,"BRCA1, sg1, W372*",1,days post-transduction,BEV_012,14,untreated,2
+sg1,BRCA1_F1_BRCA1_R1,aa,13,*,W372*,35,"BRCA1, sg1, W372*",1,days post-transduction,BEV_013,14,untreated,2
+sg1,BRCA1_F1_BRCA1_R1,aa,13,*,W372*,35,"BRCA1, sg1, W372*",1,days post-transduction,BEV_014,21,untreated,3
+sg1,BRCA1_F1_BRCA1_R1,aa,13,*,W372*,35,"BRCA1, sg1, W372*",1,days post-transduction,BEV_015,21,untreated,3
+sg1,BRCA1_F1_BRCA1_R1,aa,13,*,W372*,35,"BRCA1, sg1, W372*",1,days post-transduction,BEV_007,NTC-1,untreated,4
+sg1,BRCA1_F1_BRCA1_R1,aa,13,*,W372*,35,"BRCA1, sg1, W372*",1,days post-transduction,BEV_008,NTC-1,untreated,4
+sg12,BRCA2_F6_BRCA2_R6,nuc,37,A,SD + 5,70,"BRCA2, sg12, SD + 5",1,days post-transduction,BEV_082,7,untreated,1
+sg12,BRCA2_F6_BRCA2_R6,nuc,37,A,SD + 5,70,"BRCA2, sg12, SD + 5",1,days post-transduction,BEV_083,7,untreated,1
+sg12,BRCA2_F6_BRCA2_R6,nuc,37,A,SD + 5,70,"BRCA2, sg12, SD + 5",1,days post-transduction,BEV_084,14,untreated,2
+sg12,BRCA2_F6_BRCA2_R6,nuc,37,A,SD + 5,70,"BRCA2, sg12, SD + 5",1,days post-transduction,BEV_085,14,untreated,2
+sg12,BRCA2_F6_BRCA2_R6,nuc,37,A,SD + 5,70,"BRCA2, sg12, SD + 5",1,days post-transduction,BEV_086,21,untreated,3
+sg12,BRCA2_F6_BRCA2_R6,nuc,37,A,SD + 5,70,"BRCA2, sg12, SD + 5",1,days post-transduction,BEV_087,21,untreated,3
+sg12,BRCA2_F6_BRCA2_R6,nuc,37,A,SD + 5,70,"BRCA2, sg12, SD + 5",1,days post-transduction,BEV_007,NTC-1,untreated,4
+sg12,BRCA2_F6_BRCA2_R6,nuc,37,A,SD + 5,70,"BRCA2, sg12, SD + 5",1,days post-transduction,BEV_008,NTC-1,untreated,4
+sg3,BRCA1_F3_BRCA1_R3,aa,10,*,Q210*,20,"BRCA1, sg3, Q210*",1,days post-transduction,BEV_022,7,untreated,1
+sg3,BRCA1_F3_BRCA1_R3,aa,10,*,Q210*,20,"BRCA1, sg3, Q210*",1,days post-transduction,BEV_023,7,untreated,1
+sg3,BRCA1_F3_BRCA1_R3,aa,10,*,Q210*,20,"BRCA1, sg3, Q210*",1,days post-transduction,BEV_024,14,untreated,2
+sg3,BRCA1_F3_BRCA1_R3,aa,10,*,Q210*,20,"BRCA1, sg3, Q210*",1,days post-transduction,BEV_025,14,untreated,2
+sg3,BRCA1_F3_BRCA1_R3,aa,10,*,Q210*,20,"BRCA1, sg3, Q210*",1,days post-transduction,BEV_026,21,untreated,3
+sg3,BRCA1_F3_BRCA1_R3,aa,10,*,Q210*,20,"BRCA1, sg3, Q210*",1,days post-transduction,BEV_027,21,untreated,3
+sg3,BRCA1_F3_BRCA1_R3,aa,10,*,Q210*,20,"BRCA1, sg3, Q210*",1,days post-transduction,BEV_007,NTC-1,untreated,4
+sg3,BRCA1_F3_BRCA1_R3,aa,10,*,Q210*,20,"BRCA1, sg3, Q210*",1,days post-transduction,BEV_008,NTC-1,untreated,4
+sg10,BRCA2_F4_BRCA2_R4,aa,12,N,S196N,60,"BRCA2, sg10, S196N",1,days post-transduction,BEV_070,7,untreated,1
+sg10,BRCA2_F4_BRCA2_R4,aa,12,N,S196N,60,"BRCA2, sg10, S196N",1,days post-transduction,BEV_071,7,untreated,1
+sg10,BRCA2_F4_BRCA2_R4,aa,12,N,S196N,60,"BRCA2, sg10, S196N",1,days post-transduction,BEV_072,14,untreated,2
+sg10,BRCA2_F4_BRCA2_R4,aa,12,N,S196N,60,"BRCA2, sg10, S196N",1,days post-transduction,BEV_073,14,untreated,2
+sg10,BRCA2_F4_BRCA2_R4,aa,12,N,S196N,60,"BRCA2, sg10, S196N",1,days post-transduction,BEV_074,21,untreated,3
+sg10,BRCA2_F4_BRCA2_R4,aa,12,N,S196N,60,"BRCA2, sg10, S196N",1,days post-transduction,BEV_075,21,untreated,3
+sg10,BRCA2_F4_BRCA2_R4,aa,12,N,S196N,60,"BRCA2, sg10, S196N",1,days post-transduction,BEV_007,NTC-1,untreated,4
+sg10,BRCA2_F4_BRCA2_R4,aa,12,N,S196N,60,"BRCA2, sg10, S196N",1,days post-transduction,BEV_008,NTC-1,untreated,4
+sg10,BRCA2_F4_BRCA2_R4,aa,10,*,W194*,15,"BRCA2, sg10, W194*",1,days post-transduction,BEV_070,7,untreated,1
+sg10,BRCA2_F4_BRCA2_R4,aa,10,*,W194*,15,"BRCA2, sg10, W194*",1,days post-transduction,BEV_071,7,untreated,1
+sg10,BRCA2_F4_BRCA2_R4,aa,10,*,W194*,15,"BRCA2, sg10, W194*",1,days post-transduction,BEV_072,14,untreated,2
+sg10,BRCA2_F4_BRCA2_R4,aa,10,*,W194*,15,"BRCA2, sg10, W194*",1,days post-transduction,BEV_073,14,untreated,2
+sg10,BRCA2_F4_BRCA2_R4,aa,10,*,W194*,15,"BRCA2, sg10, W194*",1,days post-transduction,BEV_074,21,untreated,3
+sg10,BRCA2_F4_BRCA2_R4,aa,10,*,W194*,15,"BRCA2, sg10, W194*",1,days post-transduction,BEV_075,21,untreated,3
+sg10,BRCA2_F4_BRCA2_R4,aa,10,*,W194*,15,"BRCA2, sg10, W194*",1,days post-transduction,BEV_007,NTC-1,untreated,4
+sg10,BRCA2_F4_BRCA2_R4,aa,10,*,W194*,15,"BRCA2, sg10, W194*",1,days post-transduction,BEV_008,NTC-1,untreated,4
+sg3,BRCA1_F3_BRCA1_R3,aa,9,F,P209F,30,"BRCA1, sg3, P209F",1,days post-transduction,BEV_022,7,untreated,1
+sg3,BRCA1_F3_BRCA1_R3,aa,9,F,P209F,30,"BRCA1, sg3, P209F",1,days post-transduction,BEV_023,7,untreated,1
+sg3,BRCA1_F3_BRCA1_R3,aa,9,F,P209F,30,"BRCA1, sg3, P209F",1,days post-transduction,BEV_024,14,untreated,2
+sg3,BRCA1_F3_BRCA1_R3,aa,9,F,P209F,30,"BRCA1, sg3, P209F",1,days post-transduction,BEV_025,14,untreated,2
+sg3,BRCA1_F3_BRCA1_R3,aa,9,F,P209F,30,"BRCA1, sg3, P209F",1,days post-transduction,BEV_026,21,untreated,3
+sg3,BRCA1_F3_BRCA1_R3,aa,9,F,P209F,30,"BRCA1, sg3, P209F",1,days post-transduction,BEV_027,21,untreated,3
+sg3,BRCA1_F3_BRCA1_R3,aa,9,F,P209F,30,"BRCA1, sg3, P209F",1,days post-transduction,BEV_007,NTC-1,untreated,4
+sg3,BRCA1_F3_BRCA1_R3,aa,9,F,P209F,30,"BRCA1, sg3, P209F",1,days post-transduction,BEV_008,NTC-1,untreated,4
+sg29,PARP1_F1_PARP1_R1,aa,11,N,D692N,85,"sg30, D692N",1.3,days post-drug addition,BEV_094,0,untreated,1
+sg29,PARP1_F1_PARP1_R1,aa,11,N,D692N,85,"sg30, D692N",1.3,days post-drug addition,BEV_095,0,untreated,1
+sg29,PARP1_F1_PARP1_R1,aa,11,N,D692N,85,"sg30, D692N",1.3,days post-drug addition,BEV_096,5,untreated,2
+sg29,PARP1_F1_PARP1_R1,aa,11,N,D692N,85,"sg30, D692N",1.3,days post-drug addition,BEV_097,5,untreated,2
+sg29,PARP1_F1_PARP1_R1,aa,11,N,D692N,85,"sg30, D692N",1.3,days post-drug addition,BEV_098,5,talazoparib,2
+sg29,PARP1_F1_PARP1_R1,aa,11,N,D692N,85,"sg30, D692N",1.3,days post-drug addition,BEV_099,5,talazoparib,2
+sg29,PARP1_F1_PARP1_R1,aa,11,N,D692N,85,"sg30, D692N",1.3,days post-drug addition,BEV_100,12,untreated,3
+sg29,PARP1_F1_PARP1_R1,aa,11,N,D692N,85,"sg30, D692N",1.3,days post-drug addition,BEV_101,12,untreated,3
+sg29,PARP1_F1_PARP1_R1,aa,11,N,D692N,85,"sg30, D692N",1.3,days post-drug addition,BEV_102,12,talazoparib,3
+sg29,PARP1_F1_PARP1_R1,aa,11,N,D692N,85,"sg30, D692N",1.3,days post-drug addition,BEV_103,12,talazoparib,3
+sg29,PARP1_F1_PARP1_R1,aa,11,N,D692N,85,"sg30, D692N",1.3,days post-drug addition,BEV_007,NTC-1,untreated,4
+sg29,PARP1_F1_PARP1_R1,aa,11,N,D692N,85,"sg30, D692N",1.3,days post-drug addition,BEV_008,NTC-1,untreated,4
+sg30,PARP1_F2_PARP1_R2,aa,11,Q,R878Q,80,"sg31, R878Q",1.3,days post-drug addition,BEV_104,0,untreated,1
+sg30,PARP1_F2_PARP1_R2,aa,11,Q,R878Q,80,"sg31, R878Q",1.3,days post-drug addition,BEV_105,0,untreated,1
+sg30,PARP1_F2_PARP1_R2,aa,11,Q,R878Q,80,"sg31, R878Q",1.3,days post-drug addition,BEV_106,5,untreated,2
+sg30,PARP1_F2_PARP1_R2,aa,11,Q,R878Q,80,"sg31, R878Q",1.3,days post-drug addition,BEV_107,5,untreated,2
+sg30,PARP1_F2_PARP1_R2,aa,11,Q,R878Q,80,"sg31, R878Q",1.3,days post-drug addition,BEV_108,5,talazoparib,3
+sg30,PARP1_F2_PARP1_R2,aa,11,Q,R878Q,80,"sg31, R878Q",1.3,days post-drug addition,BEV_109,5,talazoparib,3
+sg30,PARP1_F2_PARP1_R2,aa,11,Q,R878Q,80,"sg31, R878Q",1.3,days post-drug addition,BEV_110,12,untreated,4
+sg30,PARP1_F2_PARP1_R2,aa,11,Q,R878Q,80,"sg31, R878Q",1.3,days post-drug addition,BEV_111,12,untreated,4
+sg30,PARP1_F2_PARP1_R2,aa,11,Q,R878Q,80,"sg31, R878Q",1.3,days post-drug addition,BEV_112,12,talazoparib,5
+sg30,PARP1_F2_PARP1_R2,aa,11,Q,R878Q,80,"sg31, R878Q",1.3,days post-drug addition,BEV_113,12,talazoparib,5
+sg30,PARP1_F2_PARP1_R2,aa,11,Q,R878Q,80,"sg31, R878Q",1.3,days post-drug addition,BEV_007,NTC-1,untreated,6
+sg30,PARP1_F2_PARP1_R2,aa,11,Q,R878Q,80,"sg31, R878Q",1.3,days post-drug addition,BEV_008,NTC-1,untreated,6
+sg31,PARP1_F3_PARP1_R3,aa,8,V,A774V,70,"sg32, A774V",1.3,days post-drug addition,BEV_114,0,untreated,1
+sg31,PARP1_F3_PARP1_R3,aa,8,V,A774V,70,"sg32, A774V",1.3,days post-drug addition,BEV_115,0,untreated,1
+sg31,PARP1_F3_PARP1_R3,aa,8,V,A774V,70,"sg32, A774V",1.3,days post-drug addition,BEV_116,5,untreated,2
+sg31,PARP1_F3_PARP1_R3,aa,8,V,A774V,70,"sg32, A774V",1.3,days post-drug addition,BEV_117,5,untreated,2
+sg31,PARP1_F3_PARP1_R3,aa,8,V,A774V,70,"sg32, A774V",1.3,days post-drug addition,BEV_118,5,talazoparib,3
+sg31,PARP1_F3_PARP1_R3,aa,8,V,A774V,70,"sg32, A774V",1.3,days post-drug addition,BEV_119,5,talazoparib,3
+sg31,PARP1_F3_PARP1_R3,aa,8,V,A774V,70,"sg32, A774V",1.3,days post-drug addition,BEV_120,12,untreated,4
+sg31,PARP1_F3_PARP1_R3,aa,8,V,A774V,70,"sg32, A774V",1.3,days post-drug addition,BEV_121,12,untreated,4
+sg31,PARP1_F3_PARP1_R3,aa,8,V,A774V,70,"sg32, A774V",1.3,days post-drug addition,BEV_122,12,talazoparib,5
+sg31,PARP1_F3_PARP1_R3,aa,8,V,A774V,70,"sg32, A774V",1.3,days post-drug addition,BEV_123,12,talazoparib,5
+sg31,PARP1_F3_PARP1_R3,aa,8,V,A774V,70,"sg32, A774V",1.3,days post-drug addition,BEV_007,NTC-1,untreated,6
+sg31,PARP1_F3_PARP1_R3,aa,8,V,A774V,70,"sg32, A774V",1.3,days post-drug addition,BEV_008,NTC-1,untreated,6
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_124,0,untreated,1
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_125,0,untreated,1
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_126,5,untreated,2
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_127,5,untreated,2
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_128,5,niraparib,3
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_129,5,niraparib,3
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_130,5,olaparib,4
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_131,5,olaparib,4
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_132,5,rucaparib,5
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_133,5,rucaparib,5
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_134,5,talazoparib,6
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_135,5,talazoparib,6
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_136,5,veliparib,7
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_137,5,veliparib,7
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_138,12,untreated,8
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_139,12,untreated,8
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_140,12,niraparib,9
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_141,12,niraparib,9
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_142,12,olaparib,10
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_143,12,olaparib,10
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_144,12,rucaparib,11
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_145,12,rucaparib,11
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_146,12,talazoparib,12
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_147,12,talazoparib,12
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_148,12,veliparib,13
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_149,12,veliparib,13
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_007,NTC-1,untreated,14
+sg32,PARP1_F2_PARP1_R2,aa,4,E,G871E,10,"sg33, G871E",2.6,days post-drug addition,BEV_008,NTC-1,untreated,14
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_124,0,untreated,1
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_125,0,untreated,1
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_126,5,untreated,2
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_127,5,untreated,2
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_128,5,niraparib,3
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_129,5,niraparib,3
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_130,5,olaparib,4
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_131,5,olaparib,4
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_132,5,rucaparib,5
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_133,5,rucaparib,5
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_134,5,talazoparib,6
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_135,5,talazoparib,6
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_136,5,veliparib,7
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_137,5,veliparib,7
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_138,12,untreated,8
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_139,12,untreated,8
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_140,12,niraparib,9
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_141,12,niraparib,9
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_142,12,olaparib,10
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_143,12,olaparib,10
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_144,12,rucaparib,11
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_145,12,rucaparib,11
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_146,12,talazoparib,12
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_147,12,talazoparib,12
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_148,12,veliparib,13
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_149,12,veliparib,13
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_007,NTC-1,untreated,14
+sg32,PARP1_F2_PARP1_R2,aa,4,K,G871K,70,"sg33, G871K",2.6,days post-drug addition,BEV_008,NTC-1,untreated,14
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_150,0,untreated,1
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_151,0,untreated,1
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_152,5,untreated,2
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_153,5,untreated,2
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_154,5,niraparib,3
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_155,5,niraparib,3
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_156,5,olaparib,4
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_157,5,olaparib,4
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_158,5,rucaparib,5
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_159,5,rucaparib,5
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_160,5,talazoparib,6
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_161,5,talazoparib,6
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_162,5,veliparib,7
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_163,5,veliparib,7
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_164,12,untreated,8
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_165,12,untreated,8
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_166,12,niraparib,9
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_167,12,niraparib,9
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_168,12,olaparib,10
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_169,12,olaparib,10
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_170,12,rucaparib,11
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_171,12,rucaparib,11
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_172,12,talazoparib,12
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_173,12,talazoparib,12
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_174,12,veliparib,13
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_175,12,veliparib,13
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_007,NTC-1,untreated,14
+sg33,PARP1_F4_PARP1_R4,aa,8,K,E642K,50,"sg34, E642K",2.6,days post-drug addition,BEV_008,NTC-1,untreated,14
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_176,0,untreated,1
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_177,0,untreated,1
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_178,5,untreated,2
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_179,5,untreated,2
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_180,5,niraparib,3
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_181,5,niraparib,3
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_182,5,olaparib,4
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_183,5,olaparib,4
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_184,5,rucaparib,5
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_185,5,rucaparib,5
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_186,5,talazoparib,6
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_187,5,talazoparib,6
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_188,5,veliparib,7
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_189,5,veliparib,7
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_190,12,untreated,8
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_191,12,untreated,8
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_192,12,niraparib,9
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_193,12,niraparib,9
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_194,12,olaparib,10
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_195,12,olaparib,10
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_196,12,rucaparib,11
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_197,12,rucaparib,11
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_198,12,talazoparib,12
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_199,12,talazoparib,12
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_200,12,veliparib,13
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_201,12,veliparib,13
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_007,NTC-1,untreated,14
+sg34,PARP1_F4_PARP1_R4,aa,8,K,E642K,20,"sg35, E642K",2.6,days post-drug addition,BEV_008,NTC-1,untreated,14
+sg35,PARP1_F5_PARP1_R5,aa,10,*,W584*,80,"sg35, W584*",1.3,days post-drug addition,BEV_202,0,untreated,1
+sg35,PARP1_F5_PARP1_R5,aa,10,*,W584*,80,"sg35, W584*",1.3,days post-drug addition,BEV_203,0,untreated,1
+sg35,PARP1_F5_PARP1_R5,aa,10,*,W584*,80,"sg35, W584*",1.3,days post-drug addition,BEV_204,5,untreated,2
+sg35,PARP1_F5_PARP1_R5,aa,10,*,W584*,80,"sg35, W584*",1.3,days post-drug addition,BEV_205,5,untreated,2
+sg35,PARP1_F5_PARP1_R5,aa,10,*,W584*,80,"sg35, W584*",1.3,days post-drug addition,BEV_206,5,talazoparib,3
+sg35,PARP1_F5_PARP1_R5,aa,10,*,W584*,80,"sg35, W584*",1.3,days post-drug addition,BEV_207,5,talazoparib,3
+sg35,PARP1_F5_PARP1_R5,aa,10,*,W584*,80,"sg35, W584*",1.3,days post-drug addition,BEV_208,12,untreated,4
+sg35,PARP1_F5_PARP1_R5,aa,10,*,W584*,80,"sg35, W584*",1.3,days post-drug addition,BEV_209,12,untreated,4
+sg35,PARP1_F5_PARP1_R5,aa,10,*,W584*,80,"sg35, W584*",1.3,days post-drug addition,BEV_210,12,talazoparib,5
+sg35,PARP1_F5_PARP1_R5,aa,10,*,W584*,80,"sg35, W584*",1.3,days post-drug addition,BEV_211,12,talazoparib,5
+sg35,PARP1_F5_PARP1_R5,aa,10,*,W584*,80,"sg35, W584*",1.3,days post-drug addition,BEV_007,NTC-1,untreated,6
+sg35,PARP1_F5_PARP1_R5,aa,10,*,W584*,80,"sg35, W584*",1.3,days post-drug addition,BEV_008,NTC-1,untreated,6
+sg36,PARP1_F6_PARP1_R6,nuc,26,T,S702S,30,"sg36, S702S",1.3,days post-drug addition,BEV_212,0,untreated,1
+sg36,PARP1_F6_PARP1_R6,nuc,26,T,S702S,30,"sg36, S702S",1.3,days post-drug addition,BEV_213,0,untreated,1
+sg36,PARP1_F6_PARP1_R6,nuc,26,T,S702S,30,"sg36, S702S",1.3,days post-drug addition,BEV_214,5,untreated,2
+sg36,PARP1_F6_PARP1_R6,nuc,26,T,S702S,30,"sg36, S702S",1.3,days post-drug addition,BEV_215,5,untreated,2
+sg36,PARP1_F6_PARP1_R6,nuc,26,T,S702S,30,"sg36, S702S",1.3,days post-drug addition,BEV_216,5,talazoparib,3
+sg36,PARP1_F6_PARP1_R6,nuc,26,T,S702S,30,"sg36, S702S",1.3,days post-drug addition,BEV_217,5,talazoparib,3
+sg36,PARP1_F6_PARP1_R6,nuc,26,T,S702S,30,"sg36, S702S",1.3,days post-drug addition,BEV_218,12,untreated,4
+sg36,PARP1_F6_PARP1_R6,nuc,26,T,S702S,30,"sg36, S702S",1.3,days post-drug addition,BEV_219,12,untreated,4
+sg36,PARP1_F6_PARP1_R6,nuc,26,T,S702S,30,"sg36, S702S",1.3,days post-drug addition,BEV_220,12,talazoparib,5
+sg36,PARP1_F6_PARP1_R6,nuc,26,T,S702S,30,"sg36, S702S",1.3,days post-drug addition,BEV_221,12,talazoparib,5
+sg36,PARP1_F6_PARP1_R6,nuc,26,T,S702S,30,"sg36, S702S",1.3,days post-drug addition,BEV_007,NTC-1,untreated,6
+sg36,PARP1_F6_PARP1_R6,nuc,26,T,S702S,30,"sg36, S702S",1.3,days post-drug addition,BEV_008,NTC-1,untreated,6
+sg24,BCL2L1_F1_BCL2L1_R1,aa,1,F,S145F,75,"sg25, S145F",0.4,days post-drug addition,BEV_348,14,untreated,1
+sg24,BCL2L1_F1_BCL2L1_R1,aa,1,F,S145F,75,"sg25, S145F",0.4,days post-drug addition,BEV_349,14,untreated,1
+sg24,BCL2L1_F1_BCL2L1_R1,aa,1,F,S145F,75,"sg25, S145F",0.4,days post-drug addition,BEV_350,14,MCL1-i + BCL2L1-i,2
+sg24,BCL2L1_F1_BCL2L1_R1,aa,1,F,S145F,75,"sg25, S145F",0.4,days post-drug addition,BEV_351,14,MCL1-i + BCL2L1-i,2
+sg25,BCL2L1_F1_BCL2L1_R1,aa,1,F,S145F,75,"sg26, S145F",0.4,days post-drug addition,BEV_352,14,untreated,1
+sg25,BCL2L1_F1_BCL2L1_R1,aa,1,F,S145F,75,"sg26, S145F",0.4,days post-drug addition,BEV_353,14,untreated,1
+sg25,BCL2L1_F1_BCL2L1_R1,aa,1,F,S145F,75,"sg26, S145F",0.4,days post-drug addition,BEV_354,14,MCL1-i + BCL2L1-i,2
+sg25,BCL2L1_F1_BCL2L1_R1,aa,1,F,S145F,75,"sg26, S145F",0.4,days post-drug addition,BEV_355,14,MCL1-i + BCL2L1-i,2
+sg26,BCL2L1_F1_BCL2L1_R1,aa,1,F,S145F,75,"sg27, S145F",0.4,days post-drug addition,BEV_356,14,untreated,1
+sg26,BCL2L1_F1_BCL2L1_R1,aa,1,F,S145F,75,"sg27, S145F",0.4,days post-drug addition,BEV_357,14,untreated,1
+sg26,BCL2L1_F1_BCL2L1_R1,aa,1,F,S145F,75,"sg27, S145F",0.4,days post-drug addition,BEV_358,14,MCL1-i + BCL2L1-i,2
+sg26,BCL2L1_F1_BCL2L1_R1,aa,1,F,S145F,75,"sg27, S145F",0.4,days post-drug addition,BEV_359,14,MCL1-i + BCL2L1-i,2
+sg27,BCL2L1_F1_BCL2L1_R1,aa,1,F,S145F,75,"sg28, S145F",0.8,days post-drug addition,BEV_360,14,untreated,1
+sg27,BCL2L1_F1_BCL2L1_R1,aa,1,F,S145F,75,"sg28, S145F",0.8,days post-drug addition,BEV_361,14,untreated,1
+sg27,BCL2L1_F1_BCL2L1_R1,aa,1,F,S145F,75,"sg28, S145F",0.8,days post-drug addition,BEV_362,14,MCL1-i + BCL2L1-i,2
+sg27,BCL2L1_F1_BCL2L1_R1,aa,1,F,S145F,75,"sg28, S145F",0.8,days post-drug addition,BEV_363,14,MCL1-i + BCL2L1-i,2
+sg27,BCL2L1_F1_BCL2L1_R1,aa,1,F,S145F,75,"sg28, S145F",0.8,days post-drug addition,BEV_388,NTC-2,untreated,3
+sg27,BCL2L1_F1_BCL2L1_R1,aa,1,F,S145F,75,"sg28, S145F",0.8,days post-drug addition,BEV_389,NTC-2,untreated,3
+sg28,BCL2L1_F2_BCL2L1_R2,aa,14,N,D107N,60,"sg29, D107N",0.8,days post-drug addition,BEV_364,14,untreated,1
+sg28,BCL2L1_F2_BCL2L1_R2,aa,14,N,D107N,60,"sg29, D107N",0.8,days post-drug addition,BEV_365,14,untreated,1
+sg28,BCL2L1_F2_BCL2L1_R2,aa,14,N,D107N,60,"sg29, D107N",0.8,days post-drug addition,BEV_366,14,MCL1-i + BCL2L1-i,2
+sg28,BCL2L1_F2_BCL2L1_R2,aa,14,N,D107N,60,"sg29, D107N",0.8,days post-drug addition,BEV_367,14,MCL1-i + BCL2L1-i,2
+sg28,BCL2L1_F2_BCL2L1_R2,aa,14,N,D107N,60,"sg29, D107N",0.8,days post-drug addition,BEV_388,NTC-2,untreated,3
+sg28,BCL2L1_F2_BCL2L1_R2,aa,14,N,D107N,60,"sg29, D107N",0.8,days post-drug addition,BEV_389,NTC-2,untreated,3
+sg28,BCL2L1_F2_BCL2L1_R2,aa,14,H,D107H,60,"sg29, D107H",0.8,days post-drug addition,BEV_364,14,untreated,1
+sg28,BCL2L1_F2_BCL2L1_R2,aa,14,H,D107H,60,"sg29, D107H",0.8,days post-drug addition,BEV_365,14,untreated,1
+sg28,BCL2L1_F2_BCL2L1_R2,aa,14,H,D107H,60,"sg29, D107H",0.8,days post-drug addition,BEV_366,14,MCL1-i + BCL2L1-i,2
+sg28,BCL2L1_F2_BCL2L1_R2,aa,14,H,D107H,60,"sg29, D107H",0.8,days post-drug addition,BEV_367,14,MCL1-i + BCL2L1-i,2
+sg28,BCL2L1_F2_BCL2L1_R2,aa,14,H,D107H,60,"sg29, D107H",0.8,days post-drug addition,BEV_388,NTC-2,untreated,3
+sg28,BCL2L1_F2_BCL2L1_R2,aa,14,H,D107H,60,"sg29, D107H",0.8,days post-drug addition,BEV_389,NTC-2,untreated,3
+sg28,BCL2L1_F2_BCL2L1_R2,aa,14,Y,D107Y,60,"sg29, D107Y",0.8,days post-drug addition,BEV_364,14,untreated,1
+sg28,BCL2L1_F2_BCL2L1_R2,aa,14,Y,D107Y,60,"sg29, D107Y",0.8,days post-drug addition,BEV_365,14,untreated,1
+sg28,BCL2L1_F2_BCL2L1_R2,aa,14,Y,D107Y,60,"sg29, D107Y",0.8,days post-drug addition,BEV_366,14,MCL1-i + BCL2L1-i,2
+sg28,BCL2L1_F2_BCL2L1_R2,aa,14,Y,D107Y,60,"sg29, D107Y",0.8,days post-drug addition,BEV_367,14,MCL1-i + BCL2L1-i,2
+sg28,BCL2L1_F2_BCL2L1_R2,aa,14,Y,D107Y,60,"sg29, D107Y",0.8,days post-drug addition,BEV_388,NTC-2,untreated,3
+sg28,BCL2L1_F2_BCL2L1_R2,aa,14,Y,D107Y,60,"sg29, D107Y",0.8,days post-drug addition,BEV_389,NTC-2,untreated,3
+sg16,MCL1_F3_MCL1_R3,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_320,0,untreated,1
+sg16,MCL1_F3_MCL1_R3,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_321,0,untreated,1
+sg16,MCL1_F3_MCL1_R3,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_322,7,untreated,2
+sg16,MCL1_F3_MCL1_R3,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_323,7,untreated,2
+sg16,MCL1_F3_MCL1_R3,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_324,7,BCL2L1-i,3
+sg16,MCL1_F3_MCL1_R3,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_325,7,BCL2L1-i,3
+sg16,MCL1_F3_MCL1_R3,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_327,7,BCL2L1-i + MCL1-i,4
+sg16,MCL1_F3_MCL1_R3,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_328,14,untreated,5
+sg16,MCL1_F3_MCL1_R3,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_329,14,untreated,5
+sg16,MCL1_F3_MCL1_R3,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_330,14,BCL2L1-i,6
+sg16,MCL1_F3_MCL1_R3,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_331,14,BCL2L1-i,6
+sg16,MCL1_F3_MCL1_R3,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_333,14,BCL2L1-i + MCL1-i,7
+sg16,MCL1_F3_MCL1_R3,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_272,NTC-1,untreated,8
+sg16,MCL1_F3_MCL1_R3,aa,14,N,D127N,60,"sg16, D127N",1.3,days post-drug addition,BEV_273,NTC-1,untreated,8
+sg15,MCL1_F3_MCL1_R3,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_306,0,untreated,1
+sg15,MCL1_F3_MCL1_R3,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_307,0,untreated,1
+sg15,MCL1_F3_MCL1_R3,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_308,7,untreated,2
+sg15,MCL1_F3_MCL1_R3,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_309,7,untreated,2
+sg15,MCL1_F3_MCL1_R3,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_310,7,BCL2L1-i,3
+sg15,MCL1_F3_MCL1_R3,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_311,7,BCL2L1-i,3
+sg15,MCL1_F3_MCL1_R3,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_313,7,BCL2L1-i + MCL1-i,4
+sg15,MCL1_F3_MCL1_R3,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_314,14,untreated,5
+sg15,MCL1_F3_MCL1_R3,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_315,14,untreated,5
+sg15,MCL1_F3_MCL1_R3,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_316,14,BCL2L1-i,6
+sg15,MCL1_F3_MCL1_R3,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_317,14,BCL2L1-i,6
+sg15,MCL1_F3_MCL1_R3,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_319,14,BCL2L1-i + MCL1-i,7
+sg15,MCL1_F3_MCL1_R3,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_272,NTC-1,untreated,8
+sg15,MCL1_F3_MCL1_R3,aa,11,K,E124K,60,"sg15, E124K",1.3,days post-drug addition,BEV_273,NTC-1,untreated,8
+sg17,MCL1_F2_MCL1_R2,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_278,0,untreated,1
+sg17,MCL1_F2_MCL1_R2,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_279,0,untreated,1
+sg17,MCL1_F2_MCL1_R2,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_280,7,untreated,2
+sg17,MCL1_F2_MCL1_R2,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_281,7,untreated,2
+sg17,MCL1_F2_MCL1_R2,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_282,7,BCL2L1-i,3
+sg17,MCL1_F2_MCL1_R2,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_283,7,BCL2L1-i,3
+sg17,MCL1_F2_MCL1_R2,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_285,7,BCL2L1-i + MCL1-i,4
+sg17,MCL1_F2_MCL1_R2,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_286,14,untreated,5
+sg17,MCL1_F2_MCL1_R2,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_287,14,untreated,5
+sg17,MCL1_F2_MCL1_R2,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_288,14,BCL2L1-i,6
+sg17,MCL1_F2_MCL1_R2,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_289,14,BCL2L1-i,6
+sg17,MCL1_F2_MCL1_R2,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_290,14,BCL2L1-i + MCL1-i,7
+sg17,MCL1_F2_MCL1_R2,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_291,14,BCL2L1-i + MCL1-i,7
+sg17,MCL1_F2_MCL1_R2,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_272,NTC-1,untreated,8
+sg17,MCL1_F2_MCL1_R2,aa,17,V,A227V,100,"sg17, A227V",1.3,days post-drug addition,BEV_273,NTC-1,untreated,8
+sg21,MCL1_F1_MCL1_R1,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_222,0,untreated,1
+sg21,MCL1_F1_MCL1_R1,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_223,0,untreated,1
+sg21,MCL1_F1_MCL1_R1,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_224,7,untreated,2
+sg21,MCL1_F1_MCL1_R1,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_225,7,untreated,2
+sg21,MCL1_F1_MCL1_R1,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_226,7,BCL2L1-i,3
+sg21,MCL1_F1_MCL1_R1,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_227,7,BCL2L1-i,3
+sg21,MCL1_F1_MCL1_R1,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_229,7,BCL2L1-i + MCL1-i,4
+sg21,MCL1_F1_MCL1_R1,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_230,14,untreated,5
+sg21,MCL1_F1_MCL1_R1,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_231,14,untreated,5
+sg21,MCL1_F1_MCL1_R1,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_232,14,BCL2L1-i,6
+sg21,MCL1_F1_MCL1_R1,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_233,14,BCL2L1-i,6
+sg21,MCL1_F1_MCL1_R1,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_234,14,BCL2L1-i + MCL1-i,7
+sg21,MCL1_F1_MCL1_R1,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_235,14,BCL2L1-i + MCL1-i,7
+sg21,MCL1_F1_MCL1_R1,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_372,14,untreated,5
+sg21,MCL1_F1_MCL1_R1,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_373,14,untreated,5
+sg21,MCL1_F1_MCL1_R1,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_374,14,BCL2L1-i + MCL1-i,7
+sg21,MCL1_F1_MCL1_R1,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_375,14,BCL2L1-i + MCL1-i,7
+sg21,MCL1_F1_MCL1_R1,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_388,NTC-2,untreated,8
+sg21,MCL1_F1_MCL1_R1,aa,13,N,D256N,25,"sg21, D256N",1.3,days post-drug addition,BEV_389,NTC-2,untreated,8
+sg19,MCL1_F2_MCL1_R2,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_236,0,untreated,1
+sg19,MCL1_F2_MCL1_R2,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_237,0,untreated,1
+sg19,MCL1_F2_MCL1_R2,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_238,7,untreated,2
+sg19,MCL1_F2_MCL1_R2,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_239,7,untreated,2
+sg19,MCL1_F2_MCL1_R2,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_241,7,BCL2L1-i,3
+sg19,MCL1_F2_MCL1_R2,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_243,7,BCL2L1-i + MCL1-i,4
+sg19,MCL1_F2_MCL1_R2,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_244,14,untreated,5
+sg19,MCL1_F2_MCL1_R2,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_245,14,untreated,5
+sg19,MCL1_F2_MCL1_R2,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_246,14,BCL2L1-i,6
+sg19,MCL1_F2_MCL1_R2,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_247,14,BCL2L1-i,6
+sg19,MCL1_F2_MCL1_R2,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_248,14,BCL2L1-i + MCL1-i,7
+sg19,MCL1_F2_MCL1_R2,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_249,14,BCL2L1-i + MCL1-i,7
+sg19,MCL1_F2_MCL1_R2,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_376,14,untreated,5
+sg19,MCL1_F2_MCL1_R2,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_377,14,untreated,5
+sg19,MCL1_F2_MCL1_R2,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_378,14,BCL2L1-i + MCL1-i,7
+sg19,MCL1_F2_MCL1_R2,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_379,14,BCL2L1-i + MCL1-i,7
+sg19,MCL1_F2_MCL1_R2,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_388,NTC-2,untreated,8
+sg19,MCL1_F2_MCL1_R2,aa,7,K,G217K,70,"sg19, G217K",1.3,days post-drug addition,BEV_389,NTC-2,untreated,8
+sg18,MCL1_F2_MCL1_R2,aa,2,I,T212I,100,"sg18, T212I",0.8,days post-drug addition,BEV_368,14,untreated,1
+sg18,MCL1_F2_MCL1_R2,aa,2,I,T212I,100,"sg18, T212I",0.8,days post-drug addition,BEV_369,14,untreated,1
+sg18,MCL1_F2_MCL1_R2,aa,2,I,T212I,100,"sg18, T212I",0.8,days post-drug addition,BEV_370,14,BCL2L1-i + MCL1-i,2
+sg18,MCL1_F2_MCL1_R2,aa,2,I,T212I,100,"sg18, T212I",0.8,days post-drug addition,BEV_371,14,BCL2L1-i + MCL1-i,2
+sg18,MCL1_F2_MCL1_R2,aa,2,I,T212I,100,"sg18, T212I",0.8,days post-drug addition,BEV_388,NTC-2,untreated,3
+sg18,MCL1_F2_MCL1_R2,aa,2,I,T212I,100,"sg18, T212I",0.8,days post-drug addition,BEV_389,NTC-2,untreated,3
+sg20,MCL1_F4_MCL1_R4,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_334,0,untreated,1
+sg20,MCL1_F4_MCL1_R4,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_335,0,untreated,1
+sg20,MCL1_F4_MCL1_R4,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_336,7,untreated,2
+sg20,MCL1_F4_MCL1_R4,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_337,7,untreated,2
+sg20,MCL1_F4_MCL1_R4,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_339,7,BCL2L1-i,3
+sg20,MCL1_F4_MCL1_R4,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_341,7,BCL2L1-i + MCL1-i,4
+sg20,MCL1_F4_MCL1_R4,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_342,14,untreated,5
+sg20,MCL1_F4_MCL1_R4,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_343,14,untreated,5
+sg20,MCL1_F4_MCL1_R4,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_344,14,BCL2L1-i,6
+sg20,MCL1_F4_MCL1_R4,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_345,14,BCL2L1-i,6
+sg20,MCL1_F4_MCL1_R4,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_346,14,BCL2L1-i + MCL1-i,7
+sg20,MCL1_F4_MCL1_R4,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_347,14,BCL2L1-i + MCL1-i,7
+sg20,MCL1_F4_MCL1_R4,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_272,NTC-1,untreated,8
+sg20,MCL1_F4_MCL1_R4,aa,14,K,E325K,100,"sg20, E325K",1.3,days post-drug addition,BEV_273,NTC-1,untreated,8
