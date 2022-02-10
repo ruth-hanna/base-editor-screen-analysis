@@ -4,7 +4,7 @@ This repo contains Jupyter notebooks used to generate the figures in "Massively 
 
 The starting files are Tables S1, S3, S6, S7, S9, and S10, provided with the manuscript. To generate filtered log-fold change (LFC) files, run the Screening_Data_Preprocessing notebook; this notebook reads in the Excel files and outputs the filtered LFC files used for subsequent analyses.
 
-Additional annotation files for the ClinVar analysis and filtered starting files are provided here:
+Additional annotation files for the ClinVar analysis and filtered LFC files (equivalent to the output of Screening_Data_Preprocessing) are provided here:
 
 https://figshare.com/articles/dataset/Filtered_LFC_files/19140497
 
